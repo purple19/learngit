@@ -4,4 +4,4 @@ git has a mutable index called stagE
 git tracks changes of
 creating a new branch is quick and simple
 git can merge branchs
-try bug branch-dev.
+try bug branch-dev 11-20-19
